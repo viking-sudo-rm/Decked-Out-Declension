@@ -1,0 +1,11 @@
+A simple Python program for declining Latin nouns.
+
+To run as plain python, run decliner.py:
+
+	python decliner.py
+
+To build an executable:
+
+	python setup.py py2exe
+	
+Hope you enjoy :)
